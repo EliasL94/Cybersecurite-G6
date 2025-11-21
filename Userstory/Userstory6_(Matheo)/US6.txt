@@ -1,0 +1,4 @@
+US 6 : Matheo
+
+- Creation d'un fichier security.php et .htaccess contenants les règles CSP 
+- CSP Visibles dans le navigateur
