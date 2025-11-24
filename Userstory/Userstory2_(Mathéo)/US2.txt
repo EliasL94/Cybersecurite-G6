@@ -1,0 +1,5 @@
+US 2 : Mathéo 
+
+- Ajout du role dans la DB et recuperation de la variable pour la session
+- Error 403 si non-autorisé 
+- Mdp et données sensibles cachés
